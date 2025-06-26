@@ -1,0 +1,6 @@
+Country,Avg_Screen_Time_Minutes,Avg_Ad_Exposure_Minutes,Algorithmic_Push_Score_10,Attention_Exploitation_Index,Source
+India,198,72,8.5,0.91,Common Sense Media + Mozilla Study
+USA,232,85,9.0,0.91,Common Sense Media + Pew Research
+Nigeria,166,55,7.0,0.80,DataReportal + Mozilla
+Japan,152,40,5.5,0.72,Statista + Common Sense Media
+Brazil,242,88,8.8,0.89,DataReportal + ThinkWithGoogle

@@ -1,0 +1,9 @@
+Country,Law_Name,Year_Enacted,Law_Type,Coverage_Area,Strength_Score_10,Notes
+India,Digital Personal Data Protection Act (DPDP),2023,Comprehensive,"Personal data processing & consent",7,"Recently passed; implementation ongoing"
+USA,Section 230 of CDA,1996,Intermediary Liability,"Content liability & platform immunity",5,"Old law; offers free speech shield but lacks user protection"
+USA,California Consumer Privacy Act (CCPA),2020,Regional,"Consumer data rights",7,"Covers California; lacks federal coverage"
+EU,General Data Protection Regulation (GDPR),2018,Comprehensive,"User consent, data rights, enforcement",9,"Gold standard globally; strong penalties"
+Brazil,Lei Geral de Proteção de Dados (LGPD),2020,Comprehensive,"Personal data processing",8,"Inspired by GDPR"
+China,Personal Information Protection Law (PIPL),2021,Comprehensive,"User consent, data localization",9,"Strict law with data sovereignty focus"
+Japan,Act on the Protection of Personal Information (APPI),"2005 (updated 2022)",Comprehensive,"Personal data protection",8,"Strong enforcement post-2022 revisions"
+Nigeria,Nigerian Data Protection Regulation (NDPR),2019,Partial,"User data processing",6,"Progressive but limited in scope"
